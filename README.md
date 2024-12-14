@@ -1,3 +1,3 @@
-i dont know what to put in the readme, 
-i would copy it from the assignment but it has the codespace details
-thank for playing bye
+The game REQUIRES PYTHON 3!!!
+If you dont have python, use a free code executor like https://www.online-python.com/
+Download the file and upload it to the site.
